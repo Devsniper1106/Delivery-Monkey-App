@@ -18,10 +18,10 @@ import FooterButton from "./FooterButton";
 const Footer = () => {
   const [page, setPage] = useState("home");
   const navigate = useNavigate();
-  // const move = () => {
-  //   setPage("home");
-  //   navigate("home");
-  // };
+  const move = () => {
+    setPage("home");
+    navigate("home");
+  };
   const ddd="godset"
   return (
     <>
