@@ -49,6 +49,7 @@ const Splash = () => {
             </div>
             <div>
               <img alt="noImg" src={avatar} />
+              <img alt="noImg" src={avatar} />
             </div>
             <div
               className="w-80 h-14 rounded-full justify-center text-center flex text-[#FC6011] items-center text-base bg-white hand"
