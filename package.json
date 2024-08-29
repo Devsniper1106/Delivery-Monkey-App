@@ -1,0 +1,65 @@
+{
+  "name": "Monkey-food-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.15",
+    "@reduxjs/toolkit": "^2.2.3",
+    "@sendgrid/mail": "^8.1.3",
+    "@stripe/react-stripe-js": "^2.6.2",
+    "@stripe/stripe-js": "^1.0.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/react": "^18.2.74",
+    "@types/react-dom": "^18.2.24",
+    "express": "^4.17.1",
+    "fix": "^0.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-lottie": "^1.2.4",
+    "react-redux": "^9.1.0",
+    "react-scripts": "^5.0.1",
+    "stripe": "^14.24.0",
+    "web-vitals": "^2.1.4"
+  },
+  "homepage": "http://localhost:3000/",
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-lottie": "^1.2.10",
+    "@typescript-eslint/eslint-plugin": "^7.5.0",
+    "@typescript-eslint/parser": "^7.5.0",
+    "concurrently": "^8.2.2",
+    "react-router-dom": "^6.22.3",
+    "tailwindcss": "^3.4.3"
+  },
+  "engines": {
+    "node": ">=0.2.5"
+  }
+}

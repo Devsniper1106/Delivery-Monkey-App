@@ -1,0 +1,13 @@
+{
+  "Users": [
+    {
+      "id": 0,
+      "name": "admin",
+      "email": "admin",
+      "mobileno": "123456789",
+      "address": "The Earth",
+      "Password": "123456"
+    }
+  ]
+  
+}

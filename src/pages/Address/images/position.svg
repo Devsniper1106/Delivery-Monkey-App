@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="203.551" height="190.563" viewBox="0 0 203.551 190.563">
+  <g id="Group_8187" data-name="Group 8187" transform="translate(-28 -210.437)">
+    <g id="Location_pin" data-name="Location pin" transform="translate(181 210.437)">
+      <g id="Group_720" data-name="Group 720">
+        <path id="Path_4292" data-name="Path 4292" d="M95.848,0A25.3,25.3,0,0,0,70.573,25.275c0,17.3,22.619,42.687,23.582,43.76a2.277,2.277,0,0,0,3.387,0c.963-1.072,23.582-26.464,23.582-43.76A25.3,25.3,0,0,0,95.848,0Zm0,37.992a12.717,12.717,0,1,1,12.716-12.716A12.731,12.731,0,0,1,95.848,37.992Z" transform="translate(-70.573 0)" fill="#fc6011"/>
+      </g>
+    </g>
+    <g id="Current_location_address" data-name="Current location address" transform="translate(28 284.532)">
+      <g id="Group_8189" data-name="Group 8189">
+        <g id="Group_6845" data-name="Group 6845">
+          <rect id="Rectangle_445" data-name="Rectangle 445" width="178" height="100" rx="12" transform="translate(0 16.468)" fill="#fc6011"/>
+          <path id="Path_8565" data-name="Path 8565" d="M0,0H28L0,28Z" transform="translate(178 28) rotate(180)" fill="#fc6011"/>
+        </g>
+        <g id="Group_8188" data-name="Group 8188">
+          <text id="_653_Nostrand_Ave._Brooklyn_NY_11216" data-name="653 Nostrand Ave., 
+Brooklyn, 
+NY 11216" transform="translate(17 64.468)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="-0.015em" opacity="0.7"><tspan x="0" y="0">653 Nostrand Ave., </tspan><tspan x="0" y="16">Brooklyn, </tspan><tspan x="0" y="32">NY 11216</tspan></text>
+          <text id="Your_Current_Location" data-name="Your Current Location" transform="translate(17 41.468)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="-0.015em"><tspan x="0" y="0">Your Current Location</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

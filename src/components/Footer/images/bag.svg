@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.217" height="15.805" viewBox="0 0 16.217 15.805">
+  <g id="_002-shopping-bag" data-name="002-shopping-bag" transform="translate(0 -6.501)">
+    <path id="Path_4245" data-name="Path 4245" d="M16.214,155.407l-1.173-10.484a.475.475,0,0,0-.472-.422H1.646a.475.475,0,0,0-.472.422L0,155.407a.475.475,0,0,0,.472.528H15.742a.475.475,0,0,0,.472-.528Z" transform="translate(0 -133.629)" fill="#b6b7b7"/>
+    <path id="Path_4246" data-name="Path 4246" d="M264.107,155.407l-1.172-10.484a.475.475,0,0,0-.472-.422H256v11.434h7.633a.475.475,0,0,0,.472-.528Z" transform="translate(-247.892 -133.629)" fill="#b6b7b7"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="0.95" cy="0.95" r="0.95" transform="translate(4.102 12.408)" fill="#b6b7b7"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="0.95" cy="0.95" r="0.95" transform="translate(10.215 12.408)" fill="#b6b7b7"/>
+    <g id="Group_2273" data-name="Group 2273" transform="translate(4.577 6.501)">
+      <path id="Path_4247" data-name="Path 4247" d="M151.089,13.675a.475.475,0,0,1-.475-.475V10.033a2.581,2.581,0,0,0-5.163,0V13.2a.475.475,0,1,1-.95,0V10.033a3.532,3.532,0,1,1,7.063,0V13.2A.475.475,0,0,1,151.089,13.675Z" transform="translate(-144.501 -6.501)" fill="#b6b7b7"/>
+    </g>
+    <path id="Path_4248" data-name="Path 4248" d="M256,6.5v.95a2.584,2.584,0,0,1,2.581,2.581V13.2a.475.475,0,0,0,.95,0V10.033A3.536,3.536,0,0,0,256,6.5Z" transform="translate(-247.892 0)" fill="#b6b7b7"/>
+  </g>
+</svg>
