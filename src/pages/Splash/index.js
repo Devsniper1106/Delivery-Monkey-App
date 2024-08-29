@@ -45,7 +45,10 @@ const Splash = () => {
                 navigator("/login");
               }}
             >
-              Loginhaha
+              Loginhaha========
+            </div>
+            <div>
+              <img alt="noImg" src={avatar} />
             </div>
             <div className="w-80 h-14 rounded-full justify-center text-center flex text-white items-center text-base bg-[#FC6011] mb-[20px] hand">
               Loginhaha
