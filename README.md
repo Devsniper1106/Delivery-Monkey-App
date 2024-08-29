@@ -19,6 +19,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Stratege
-
+# I want to receive a lot of advice on my project.
 We can build this project with us.
 Thanks.
