@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
+Wonderful project
 ## Stratege
 # I want to receive a lot of advice on my project.
 We can build this project with us.

@@ -51,7 +51,6 @@ export default function App() {
 					<Route path="/notification" element={<Notification />} />
 					<Route path="/myorder" element={<MyOrder />} />
 					<Route path="/checkout" element={<Checkout />} />
-					<Route path="/changeaddress" element={<Address />} />
 					<Route path="*" element={<Dashboard />} />
 				</Routes>
 				{islogin && <Footer />}
