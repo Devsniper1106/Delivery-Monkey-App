@@ -36,6 +36,12 @@ export const actions: Actions = {
         return setError(form, 'password', 'Incorrect password.');
       }
 
+
+
+fsdfasfdsadf
+
+
+
       logger.debug(`Action: Login: success. generating token.`);
       const hour = 60 * 60;
       const token = await generateToken({ expiresIn: hour });
