@@ -27,7 +27,7 @@ export const actions: Actions = {
         logger.warn('Action: Login: failed to validate form.');
         return fail(400, { ok: false, message: 'Bad Request', form });
       }
-
+      const { ADMIN_dddPASSWORD } = env;
       const { ADMIN_PASSWORD } = env;
       const { password } = form.data;
 
@@ -38,9 +38,9 @@ export const actions: Actions = {
 
 
 
-fsdfasfdsadf
+// fsdfasfdsadf
 
-
+git 
 
       logger.debug(`Action: Login: success. generating token.`);
       const hour = 60 * 60;
